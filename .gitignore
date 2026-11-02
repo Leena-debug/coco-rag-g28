@@ -227,3 +227,5 @@ __marimo__/
 *.zip
 *.pt
 data/raw/
+
+data/annotations/
