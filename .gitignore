@@ -229,3 +229,5 @@ __marimo__/
 data/raw/
 
 data/annotations/
+
+data/embeddings/
