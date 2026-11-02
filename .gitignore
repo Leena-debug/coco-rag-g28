@@ -231,3 +231,6 @@ data/raw/
 data/annotations/
 
 data/embeddings/
+
+_tmp_extract/
+_fresh_extract/
